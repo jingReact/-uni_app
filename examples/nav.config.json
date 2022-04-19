@@ -1,0 +1,157 @@
+{
+  "开发指南": [
+    {
+      "name": "giud",
+      "path": "/giud",
+      "desc": "介绍"
+    },
+    {
+      "name": "install",
+      "path": "/install",
+      "desc": "安装"
+    },
+    {
+      "name": "start",
+      "path": "/start",
+      "desc": "快速开始"
+    },
+    {
+      "name": "index",
+      "path": "/",
+      "type": "pages"
+    },
+    {
+      "name": "logs",
+      "path": "/logs",
+      "desc": "更新日志"
+    },
+    {
+      "name": "demo",
+      "path": "/demo",
+      "type": "pages"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "基础组件",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "头部",
+          "name": "wdwhDpHead1",
+          "path": "/wdwhDpHead1"
+        },
+        {
+          "desc": "底部",
+          "name": "wdwhDpFooter",
+          "path": "/wdwhDpFooter"
+        },
+        {
+          "desc": "栅格布局",
+          "name": "wdwhDpGridLayout",
+          "path": "/wdwhDpGridLayout"
+        },
+        {
+          "desc": "布局容器",
+          "name": "wdwhDpLayoutContainer",
+          "path": "/wdwhDpLayoutContainer"
+        },
+        {
+          "desc": "中部区域",
+          "name": "wdwhDpCenterContent",
+          "path": "/wdwhDpCenterContent"
+        },
+        {
+          "desc": "卡片标题",
+          "name": "wdwhDpCardTitle",
+          "path": "/wdwhDpCardTitle"
+        },
+        {
+          "desc": "边框",
+          "name": "wdwhDpBorder",
+          "path": "/wdwhDpBorder"
+        },
+        {
+          "desc": "环形图",
+          "name": "wdwhDpPie",
+          "path": "/wdwhDpPie"
+        },
+        {
+          "desc": "柱状图",
+          "name": "wdwhDpBar",
+          "path": "/wdwhDpBar"
+        },
+        {
+          "desc": "象形柱状图",
+          "name": "wdwhDpPictorialBar1",
+          "path": "/wdwhDpPictorialBar1"
+        },
+        {
+          "desc": "折线图",
+          "name": "wdwhDpLine",
+          "path": "/wdwhDpLine"
+        },
+        {
+          "desc": "水波图",
+          "name": "wdwhDpLiquid",
+          "path": "/wdwhDpLiquid"
+        },
+        {
+          "desc": "数字滚动",
+          "name": "wdwhDpNumber",
+          "path": "/wdwhDpNumber"
+        },
+        {
+          "desc": "列表滚动",
+          "name": "wdwhDpScrollList",
+          "path": "/wdwhDpScrollList"
+        },
+        {
+          "desc": "进度条",
+          "name": "wdwhDpProgress",
+          "path": "/wdwhDpProgress"
+        },
+        {
+          "desc": "仪表盘",
+          "name": "wdwhDpGauge",
+          "path": "/wdwhDpGauge"
+        },
+        {
+          "desc": "图片文字统计量",
+          "name": "wdwhDpDataStats",
+          "path": "/wdwhDpDataStats"
+        },
+        {
+          "desc": "图表下钻",
+          "name": "wdwhDpChartDrill",
+          "path": "/wdwhDpChartDrill"
+        },
+        {
+          "desc": "表格",
+          "name": "wdwhDpTable",
+          "path": "/wdwhDpTable"
+        },
+        {
+          "desc": "词云",
+          "name": "wdwhDpWordCloud",
+          "path": "/wdwhDpWordCloud"
+        },
+        {
+          "desc": "地图",
+          "name": "wdwhDpMap",
+          "path": "/wdwhDpMap"
+        },
+        {
+          "desc": "高德在线地图",
+          "name": "wdwhZxDpMap",
+          "path": "/wdwhZxDpMap"
+        },
+        {
+          "desc": "gl",
+          "name": "gl",
+          "path": "/gl"
+        }
+      ]
+    }
+  ]
+}
