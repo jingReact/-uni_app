@@ -48,6 +48,7 @@ export default {
 </script>
 <style lang="less" scoped>
 @color:#000001;
+@color2:#fff;
 @color1:#0080a1;
 .all{
   position: relative;
@@ -63,7 +64,7 @@ export default {
     width: 200px;
     transform: translate(70.2vw,-70vh);
     background: @color;
-    color: #fff;
+    color: @color2;
     border: none;
     #province,
     #city,
@@ -72,7 +73,7 @@ export default {
       padding: 3px 0;
       margin: 5px 1px;
       text-align: center;
-      background: #000001;
+      background: @color;
       color: @color1;
       border: 1px solid @color1;
     }
